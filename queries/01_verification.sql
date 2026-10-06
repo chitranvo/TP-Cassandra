@@ -12,11 +12,11 @@ SELECT * FROM stations_by_id LIMIT 10;
 SELECT * FROM stations_by_name
 WHERE name = 'Pont Neuf - Rivoli';
 
--- Verification par capacit�
+-- Verification par capacite
 SELECT * FROM stations_by_capacity
 WHERE capacity = 27;
 
--- Verification par cat�gorie
+-- Verification par categorie
 SELECT * FROM stations_by_category
 WHERE capacity_category = 'petite'
 LIMIT 10;
