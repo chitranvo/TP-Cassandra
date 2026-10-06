@@ -1,4 +1,3 @@
-@"
 # Modélisation Cassandra - Vélib
 
 ## 1. Principe de modélisation
